@@ -1,0 +1,61 @@
+.container{
+    border: 1px solid black;
+    background-color: black;
+
+}
+h2 {text-align: center;
+    color: white;
+}
+.first{
+    background-color: brown;
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+.second{
+    background-color: yellow;
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+
+}
+.third{
+    background-color: blueviolet;
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+.four{
+    background-color:rgb(187, 95, 111);
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+.five{
+    background-color:gray;
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+.six{
+    background-color: rgb(158, 135, 7);
+    margin: 20px 50px 20px 50px;
+    border-radius: 50px;
+    width: 250px;
+    height: 300px;
+}
+.Item{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 250px;
+    height: 150px;
+    border-radius: 50px 50px 0px 0px;
+}
+    
